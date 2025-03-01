@@ -16,5 +16,5 @@ This is a **Streamlit-based web app** that converts **natural language queries**
 ## 📦 Installation  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/natural-language-to-sql.git
+   git clone https://github.com/Ro1kulkarni/Text_To_SQL.git
    cd natural-language-to-sql
